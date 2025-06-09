@@ -33,12 +33,14 @@ Experiments on the **Carioca** and **New Spanish** datasets show that our approa
 ---
 
 ## 📂 Project Structure
-├── codebase/ # Core source code
-│ ├── inference.py # Inference pipeline
-│ ├── utils.py # DFT-based ENF phase extraction utilities
-│ ├── models.py # CNN + BiLSTM + Attention architecture
-│ └── train.py # Training pipeline
-├── requirements.txt # Python dependencies
-└── README.md # This file
+📁 Audio-Tampering-Detection-Using-ENF
+├── 📁 codebase                # Core source code
+│   ├── inference.py          # Inference pipeline
+│   ├── models.py             # CNN + BiLSTM + Attention architecture
+│   ├── train.py              # Training pipeline
+│   └── utils.py              # DFT-based ENF phase extraction utilities
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
+
 
 
