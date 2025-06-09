@@ -1,8 +1,8 @@
-# Digital Audio Tampering Detection Based on ENF Spatio-temporal Features Representation Learning
+# Digital audio tampering detection based on spatio-temporal representation learning of electrical network frequency
 
 This repository contains the implementation of the method proposed in the research paper titled:
 
-**"Digital Audio Tampering Detection Based on ENF Spatio-temporal Features Representation Learning"**
+**"Digital audio tampering detection based on spatio-temporal representation learning of electrical network frequency"**
 
 ## 📖 Abstract
 
@@ -54,12 +54,12 @@ pip install -r requirements.txt
 
 This implementation is based on the research paper:
 
-> **Digital Audio Tampering Detection Based on ENF Spatio-temporal Features Representation Learning**  
+> **Digital audio tampering detection based on spatio-temporal representation learning of electrical network frequency**  
 > [Authors: Chunyan Zeng, Shuai Kong, Zhifeng Wang, Xiangkui Wan, and Yunfan Chen]    
 
 We thank the authors for their valuable contribution to the field of multimedia forensics.  
 All core concepts, including ENF-based phase analysis and the CNN-BiLSTM-attention model, are derived from the ideas presented in this work.
 
-📄 [Link to paper](https://doi.org/10.48550/arXiv.2208.11920)
+📄 [Link to paper](https://doi.org/10.1007/s11042-024-18887-5))
 
 
