@@ -60,6 +60,6 @@ This implementation is based on the research paper:
 We thank the authors for their valuable contribution to the field of multimedia forensics.  
 All core concepts, including ENF-based phase analysis and the CNN-BiLSTM-attention model, are derived from the ideas presented in this work.
 
-📄 [Link to paper](https://doi.org/10.1007/s11042-024-18887-5))
+📄 [https://doi.org/10.1007/s11042-024-18887-5]
 
 
