@@ -34,7 +34,7 @@ Experiments on the **Carioca** and **New Spanish** datasets show that our approa
 
 ## 📂 Project Structure
 ```
-📁 Audio-Tampering-Detection-Using-ENF
+📁 Digital-audio-tampering-detection-based-on-spatio-temporal-representation-learning-of-ENF
 ├── 📁 codebase               # Source Code
 │   ├── 📁 model_store
 │   │    ├── model.pth        # Pre-trained model
