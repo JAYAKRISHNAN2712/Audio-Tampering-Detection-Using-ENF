@@ -35,7 +35,10 @@ Experiments on the **Carioca** and **New Spanish** datasets show that our approa
 ## 📂 Project Structure
 ```
 📁 Audio-Tampering-Detection-Using-ENF
-├── 📁 codebase                # Core source code
+├── 📁 codebase               # Source Code
+│   ├── 📁 model_store
+│   │    ├── model.pth        # Pre-trained model
+│   │    ├── params.json      # Hyper parameters
 │   ├── inference.py          # Inference pipeline
 │   ├── models.py             # CNN + BiLSTM + Attention architecture
 │   ├── train.py              # Training pipeline
