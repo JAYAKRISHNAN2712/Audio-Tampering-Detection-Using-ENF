@@ -46,5 +46,20 @@ Experiments on the **Carioca** and **New Spanish** datasets show that our approa
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
+## Installation
+```
+pip install -r requirements.txt
+```
+## 📝 Acknowledgments
+
+This implementation is based on the research paper:
+
+> **Digital Audio Tampering Detection Based on ENF Spatio-temporal Features Representation Learning**  
+> [Authors: Chunyan Zeng, Shuai Kong, Zhifeng Wang, Xiangkui Wan, and Yunfan Chen]    
+
+We thank the authors for their valuable contribution to the field of multimedia forensics.  
+All core concepts, including ENF-based phase analysis and the CNN-BiLSTM-attention model, are derived from the ideas presented in this work.
+
+📄 [Link to paper](https://doi.org/10.48550/arXiv.2208.11920)
 
 
