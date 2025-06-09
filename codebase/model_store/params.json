@@ -1,0 +1,14 @@
+{
+  "cnn_in_channels": [1, 16, 32],
+  "cnn_out_channels": [16, 32, 64],
+  "cnn_kernel_size": [3, 3],
+  "cnn_output_dim": 576,
+  "lstm_input_size_layer_1": 25,
+  "lstm_hidden_size_layer_1": 85,
+  "lstm_num_layers_layer_1": 1,
+  "lstm_input_size_layer_2": 170,
+  "lstm_hidden_size_layer_2": 85,
+  "lstm_num_layers_layer_2": 1,
+  "lstm_output_dim": 170,
+  "attn_compression_param": 8
+}
