@@ -50,6 +50,16 @@ Experiments on the **Carioca** and **New Spanish** datasets show that our approa
 ```
 pip install -r requirements.txt
 ```
+## Training
+```
+cd codebase
+python3 train.py -i /path/to/audio/files -b batch_size -e epochs
+```
+## Inference
+```
+cd codebase
+python3 inference.py -i /path/to/test/audio.wav
+```
 ## 📝 Acknowledgments
 
 This implementation is based on the research paper:
